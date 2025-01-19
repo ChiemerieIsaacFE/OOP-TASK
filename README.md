@@ -2,4 +2,11 @@
 
 Title: A Banking System
 
-Description: This Banking System allows users to create a Bank Account, login periodically, deposit, transfer, save, and widthdraw money. It allows users to pay bills.
+Description: 
+This Banking System allows users to;
+i. create a Bank Account,
+ii. login periodically, 
+iii. deposi, 
+iv. transfer, 
+v. save, and
+vi. widthdraw money. It allows users to pay bills.
